@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranklinShera
-- 👀 I’m interested in Laravel & Vue js
+- 👀 I’m an expert in Laravel & Vue js
 - 🌱 I’m currently learning React & Node(express)
 - 💞️ I’m looking to collaborate on Small & Large Scale Projects.
 - 📫 How to reach me Email Me --> fshera96@gmail.com
