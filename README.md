@@ -1,6 +1,7 @@
-# Hi I'm Franklin Shera <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hello there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# I'm Franklin Shera 
 
-I'm  a Web Developer.
+I'm  a Web Developer and Web Designer.
 
 - :computer: Currently I'm Freelancing.
 - :star: I'm open to Job offers.
