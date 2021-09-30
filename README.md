@@ -9,7 +9,7 @@ I'm  a Web Developer and Web Designer.
 
 :mailbox: Connect With Me:
 
- [![Linkedin Badge](https://img.shields.io/badge/-FranklinShera-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinshera/) [![Mail Badge](https://img.shields.io/badge/-@sherafranklin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sherafranklin) [![Mail Badge](https://img.shields.io/badge/-FranklinShera-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fshera96@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-franklinshera-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinshera/) [![Mail Badge](https://img.shields.io/badge/-@sherafranklin-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/sherafranklin) [![Mail Badge](https://img.shields.io/badge/-FranklinShera-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fshera96@gmail.com)
 
 
 
