@@ -30,17 +30,4 @@ I'm  a Web Developer and Web Designer.
 #### Tools
 [![SCSS Badge](https://img.shields.io/badge/-AdobeXD-450135?style=for-the-badge&labelColor=white&logo=adobexd&logoColor=450135)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-A259FF?style=for-the-badge&labelColor=white&logo=figma&logoColor=A259FF)](#)  [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&labelColor=white&logo=adobephotoshop&logoColor=001D34)](#)
 
-<br>
-
-
-
-#### :point_right: Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinShera&langs_count=10&layout=compact)](https://github.com/FranklinShera/github-readme-stats)
-
-
-
-#### :point_right: Github Stats
-
-![FranklinSheras github stats](https://github-readme-stats.vercel.app/api?username=FranklinShera&count_private=true&theme=tokyonight&hide=contribs,prs,stars,issues&show_icons=true)
 
