@@ -3,7 +3,7 @@
 
 I'm  a Web Developer.
 
-- :computer: Currently I'm Freelancing and Making (VsCode Extensions)[https://marketplace.visualstudio.com/items?itemName=FranklinShera.vscodelaraveldocs].
+- :computer: Currently I'm Freelancing and Making [VsCode Extensions](https://marketplace.visualstudio.com/items?itemName=FranklinShera.vscodelaraveldocs).
 - :star: I'm open to Job offers.
 - :headphones: I love music.
 
