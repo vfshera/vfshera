@@ -27,7 +27,5 @@ I'm  a Web Developer.
 ####
 [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6698?style=for-the-badge&labelColor=white&logo=sass&logoColor=CD6698)](#) [![Tailwind Badge](https://img.shields.io/badge/-TailwindCss-06B6D4?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=06B6D4)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&labelColor=7952B3&logo=bootstrap&logoColor=white)](#)
 
-#### Tools
-[![SCSS Badge](https://img.shields.io/badge/-AdobeXD-450135?style=for-the-badge&labelColor=white&logo=adobexd&logoColor=450135)](#) [![Figma Badge](https://img.shields.io/badge/-Figma-A259FF?style=for-the-badge&labelColor=white&logo=figma&logoColor=A259FF)](#)  [![Photoshop Badge](https://img.shields.io/badge/-Photoshop-2FA3F7?style=for-the-badge&labelColor=white&logo=adobephotoshop&logoColor=001D34)](#)
 
 
