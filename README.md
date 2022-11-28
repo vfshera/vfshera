@@ -20,12 +20,9 @@ I'm  a Web Developer.
 
 
 #### Frontend Technologies
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![Vue Badge](https://img.shields.io/badge/-Vue-3FB27F?style=for-the-badge&labelColor=white&logo=vue.js&logoColor=3FB27F)](#)
  [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=20232A&logo=react&logoColor=61DAFB)](#)  
 
-####
-[![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6698?style=for-the-badge&labelColor=white&logo=sass&logoColor=CD6698)](#) [![Tailwind Badge](https://img.shields.io/badge/-TailwindCss-06B6D4?style=for-the-badge&labelColor=white&logo=tailwindcss&logoColor=06B6D4)](#)  [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&labelColor=7952B3&logo=bootstrap&logoColor=white)](#)
 
 
 
