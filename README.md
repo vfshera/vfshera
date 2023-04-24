@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franklin Shera======================================================================================================================================Web Developer-------------* 🌍  I'm based in Nairobi. Kenya* 🖥️  See my portfolio at [vfshera.com](http://vfshera.com)* ✉️  You can contact me at [frank@vfshera.com](mailto:frank@vfshera.com)* 🧠  I'm learning Python
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Franklin Shera
+======================================================================================================================================
+Web Developer
+-------------
+* 🌍  I'm based in Nairobi. Kenya
+* 🖥️  See my portfolio at [vfshera.com](http://vfshera.com)
+* ✉️  You can contact me at [frank@vfshera.com](mailto:frank@vfshera.com)
+* 🧠  I'm learning Python
 
 ### Skills
 
