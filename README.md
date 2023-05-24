@@ -5,7 +5,7 @@ Web Developer
 * 🌍  I'm based in Nairobi. Kenya
 * 🖥️  See my portfolio at [vfshera.com](http://vfshera.com)
 * ✉️  You can contact me at [frank@vfshera.com](mailto:frank@vfshera.com)
-* 🧠  I'm learning Python
+
 
 ### Skills
 
